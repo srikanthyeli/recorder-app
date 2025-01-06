@@ -20,5 +20,5 @@ A lightweight and efficient screen recording application built to capture and sa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sandnb/screen-recorder-application.git
+   git clone https://github.com/srikanthyeli/recorder-app.git
    cd screen-recorder-application
